@@ -21,7 +21,8 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	<li>React Native</li>
 		<li>Redux</li></ul>
 
-	:busts_in_silhouette: I’m looking to collaborate on ...
+	:
+👥 I’m looking to collaborate on ...
 	<ul><li>Projects related to Accessibility</li>
 		<li>Open Source</li>
 		<li>Augmented Reality</li>
