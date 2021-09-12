@@ -7,6 +7,9 @@
 <!--
 **DesireeJoy/DesireeJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
+<h4> <a href="http://DesireeJoy.com">Website</a> • <a href="https://www.linkedin.com/in/desiree-bradish-a5728bb/">LinkedIn</a> • <a href="https://twitter.com/DesireeJoy">Twitter</a></h4>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
