@@ -50,5 +50,5 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 
 [Finnegan Fox Books](http://www.wytheria.com/SaveAFox) [Code](https://github.com/DesireeJoy/SaveAFox)&nbsp;&nbsp;
 
-[News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api)
+[News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api)&nbsp;&nbsp;
 <a href='Fox-Site-Preview.png'><IMG SRC='Fox-Site-Preview.png' width='100px'></a> <IMG SRC='News-Explorer-Preview.png' width='100px'>
