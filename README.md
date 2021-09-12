@@ -49,7 +49,7 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	##Featured Projects
 
 [Finnegan Fox Books](http://www.wytheria.com/SaveAFox) [Code](https://github.com/DesireeJoy/SaveAFox)&nbsp;&nbsp;
-<IMG SRC='Fox-Site-Preview.png'>
+<IMG SRC='Fox-Site-Preview.png' width='300px'>
 
 [News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api)
-<IMG SRC='News-Explorer-Preview.png'>
+<IMG SRC='News-Explorer-Preview.png' width='300px'>
