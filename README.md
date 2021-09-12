@@ -18,9 +18,9 @@
 Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 🔭 I’m currently learning
-	<ul><li>Flutter</li>
-	<li>React Native</li>
-		<li>Redux</li></ul>
+	- Flutter
+	- React Native
+	- Redux
 &nbsp;&nbsp;
 
 👥 I’m looking to collaborate on ...
