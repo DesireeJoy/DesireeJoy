@@ -21,7 +21,24 @@
       <a href="http://DesireeJoy.com">Website</a>
 </p>
   
+	
+	
   <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
+	
+	
+	
+	
+<p align='right'>
+  <a href="https://www.linkedin.com/in/rebecca-burch/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/thinkLikeADev">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
+     <a href="mailto:rebecca.burch.stu@gmail.com">
+ <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+	</a>
+</p>
   
 
 <!--
