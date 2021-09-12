@@ -14,7 +14,7 @@
 	</a>
 </p>
 	
-	## Hi there 👋 I'm Desireé Joy. (She/Her)
+Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 - 🔭 I’m currently learning
 	<ul><li>Flutter</li>
