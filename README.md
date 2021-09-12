@@ -17,7 +17,7 @@
 	
 Hi there 👋 I'm Desireé Joy. (She/Her)
 	
-🔭 I’m currently learning
+##🔭 I’m currently learning
 	- Flutter
 	- React Native
 	- Redux
