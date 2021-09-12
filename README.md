@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Desireé Joy. (She/Her)
+## Full Stack Developer (MERN... for now ;) )
+----------------------------------------------
+
+<IMG SRC=''>
 
 <!--
 **DesireeJoy/DesireeJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
