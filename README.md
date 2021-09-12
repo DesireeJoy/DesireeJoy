@@ -16,11 +16,12 @@
 	
 Hi there 👋 I'm Desireé Joy. (She/Her)
 	
-- 🔭 I’m currently learning
+🔭 I’m currently learning
 	<ul><li>Flutter</li>
 	<li>React Native</li>
 		<li>Redux</li></ul>
-	- 👯 I’m looking to collaborate on ...
+
+	:busts_in_silhouette: I’m looking to collaborate on ...
 	<ul><li>Projects related to Accessibility</li>
 		<li>Open Source</li>
 		<li>Augmented Reality</li>
