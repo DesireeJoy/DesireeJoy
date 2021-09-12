@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Desireé Joy. (She/Her)
 ## Full Stack Developer 
-# M.E.R.N.
+### M.E.R.N.
 
 <IMG SRC='GitHubProfile.png'>
 ----------------------------------------------
