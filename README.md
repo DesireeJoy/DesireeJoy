@@ -6,21 +6,6 @@
 ----------------------------------------------
   ##Links
   
-  <p align='right'>
-      <a href="https://twitter.com/DesireeJoy">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>&nbsp;&nbsp;
-    
-  <a href="https://www.linkedin.com/in/desiree-bradish-a5728bb/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
- 
-      <a href="mailto:desireebradish@gmail.com">
- <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-      <a href="http://DesireeJoy.com">Website</a>
-</p>
-  
 	
 	
   <img src='https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white'>
@@ -35,11 +20,16 @@
    <a href="https://twitter.com/thinkLikeADev">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-     <a href="mailto:rebecca.burch.stu@gmail.com">
+     <a href="mailto:desireebradish@gmail.com">
  <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
-  
+  <p align='right'>
+	    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
+	  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
+	  <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+	  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'>
+	  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'>
 
 <!--
 **DesireeJoy/DesireeJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
