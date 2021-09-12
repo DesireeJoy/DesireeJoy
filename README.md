@@ -2,7 +2,7 @@
 ## Full Stack Developer (MERN... for now ;) )
 ----------------------------------------------
 
-<IMG SRC=''>
+<IMG SRC='GitHubProfile.png'>
 
 <!--
 **DesireeJoy/DesireeJoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
