@@ -1,5 +1,5 @@
-### Hi there 👋 I'm Desireé Joy. (She/Her)
-## Full Stack Developer 
+## Hi there 👋 I'm Desireé Joy. (She/Her)
+### Full Stack Developer 
 ### M.E.R.N.
 
 <IMG SRC='GitHubProfile.png'>
