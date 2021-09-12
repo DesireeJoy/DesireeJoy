@@ -45,3 +45,8 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	  <img src='https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white'>
 	  <img src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge'></p>
 	</p>
+	
+	##Featured Projects
+
+-[Finnegan Fox Books](http://www.wytheria.com/SaveAFox)[Code](https://github.com/DesireeJoy/SaveAFox)
+-[News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api)
