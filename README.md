@@ -1,5 +1,3 @@
-##Test
-
 <p align='center'>
 	<IMG SRC='GitHubProfile.png'>
 		</p>
@@ -50,5 +48,5 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 	##Featured Projects
 
--[Finnegan Fox Books](http://www.wytheria.com/SaveAFox)[Code](https://github.com/DesireeJoy/SaveAFox)
--[News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api)
+[Finnegan Fox Books](http://www.wytheria.com/SaveAFox)[Code](https://github.com/DesireeJoy/SaveAFox)
+[News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api)
