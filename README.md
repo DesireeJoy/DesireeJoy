@@ -1,5 +1,6 @@
-<IMG SRC='GitHubProfile.png'>
-
+<p align='center'>
+	<IMG SRC='GitHubProfile.png'>
+		</p>
 
 	
 <p align='right'>
