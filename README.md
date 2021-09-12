@@ -48,7 +48,14 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 	##Featured Projects
 
-[Finnegan Fox Books](http://www.wytheria.com/SaveAFox) [Code](https://github.com/DesireeJoy/SaveAFox) | [News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api) &nbsp;&nbsp; 
+[Finnegan Fox Books](http://www.wytheria.com/SaveAFox) [Code](https://github.com/DesireeJoy/SaveAFox)
+
+React based responsive design for the 'Finnegan Fox' book series by SaveAFox inc.
+<a href='Fox-Site-Preview.png'><IMG SRC='Fox-Site-Preview.png' width='100px'></a> 
+
+[News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api)
+
+Full (M.E.R.N.) stack responsive website that utilizes a public news search API and a private API for logging in/out and saving articles.
 
 
-<a href='Fox-Site-Preview.png'><IMG SRC='Fox-Site-Preview.png' width='100px'></a> <IMG SRC='News-Explorer-Preview.png' width='100px'>
+	<a href='News-Explorer-Preview.png'><IMG SRC='News-Explorer-Preview.png' width='100px'></a>
