@@ -20,8 +20,8 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	<ul><li>Flutter</li>
 	<li>React Native</li>
 		<li>Redux</li></ul>
+&nbsp;&nbsp;
 
-	:
 👥 I’m looking to collaborate on ...
 	<ul><li>Projects related to Accessibility</li>
 		<li>Open Source</li>
