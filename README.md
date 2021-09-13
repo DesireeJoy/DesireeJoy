@@ -1,5 +1,5 @@
 <p align='center'>
-	<IMG SRC='GitHubProfile.png'>
+	<IMG SRC='GitHub-Profile.png'>
 		</p>
 
 	
