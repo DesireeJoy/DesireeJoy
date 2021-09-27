@@ -35,7 +35,7 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 <h1>Featured Projects</h1>
 
-[Finnegan Fox Books](http://www.wytheria.com/SaveAFox) [Code](https://github.com/DesireeJoy/SaveAFox)
+[Finnegan Fox Books](https://desireejoy.github.io/SaveAFox-temp/) [Code](https://github.com/DesireeJoy/SaveAFox)
 
 React based responsive design for the 'Finnegan Fox' book series by SaveAFox inc.
 
