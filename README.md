@@ -21,7 +21,7 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	<ul>
 	<li>Flutter</li>
 	<li>React Native</li>
-	<li>Redux</li>
+	<li>Typescript</li>
 	</ul>
 &nbsp;&nbsp;
 
