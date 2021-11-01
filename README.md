@@ -41,9 +41,9 @@ React based responsive design for the 'Finnegan Fox' book series by SaveAFox inc
 
 <IMG SRC='Fox-Site-Preview.png' width='300px'>
 
-[News Explorer](https://desinews.netlify.app/)[Frontend Code](https://github.com/DesireeJoy/news-explorer-frontend)[Backend Code](https://github.com/DesireeJoy/news-explorer-api)
+[News Explorer](https://djbnews.students.nomoreparties.site/)[Code](https://github.com/DesireeJoy/news-explorer-frontend)
 
-Full (M.E.R.N.) stack responsive website that utilizes a public news search API and a private API for logging in/out and saving articles.
+Full (M.E.R.N.) stack responsive SPA that utilizes a public news search API and a private API, created by me, for logging in/out and saving articles. It utilizes a NGINX reverse proxy setup to keep both hosted at the same location and Certbot for security.
 	
 <IMG SRC='News-Explorer-Preview.png' width='300px'>
 
