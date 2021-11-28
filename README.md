@@ -35,6 +35,12 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 <h1>Featured Projects</h1>
 
+[React Portfolio](https://desireejoy.github.io/DesireeJoy_Portfolio/) [Code](https://github.com/DesireeJoy/DesireeJoy_Portf_Code)
+
+React Based Portfolio Site for Desiree Joy Bradish
+
+<IMG SRC='DJBReact-Site-Preview.png' width='800px'>
+
 [Finnegan Fox Books](https://desireejoy.github.io/SaveAFox-temp/) [Code](https://github.com/DesireeJoy/SaveAFox)
 
 React based responsive design for the 'Finnegan Fox' book series by SaveAFox inc.
