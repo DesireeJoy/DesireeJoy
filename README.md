@@ -4,7 +4,7 @@
 
 	
 <p align='right'>
-  <a href="https://www.linkedin.com/in/rebecca-burch/">
+  <a href="https://www.linkedin.com/in/desireejoy/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a href="https://twitter.com/thinkLikeADev">
