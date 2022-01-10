@@ -19,7 +19,6 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 🔭 I’m currently learning
 	<ul>
-	<li>Flutter</li>
 	<li>React Native</li>
 	<li>Typescript</li>
 	</ul>
