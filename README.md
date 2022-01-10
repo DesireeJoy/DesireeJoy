@@ -34,19 +34,19 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 <h1>Featured Projects</h1>
 
-[React Portfolio](https://desireejoy.github.io/DesireeJoy_Portfolio/) [Code](https://github.com/DesireeJoy/DesireeJoy_Portf_Code)
+[React Portfolio](https://desireejoy.github.io/DesireeJoy_Portfolio/) | [Code](https://github.com/DesireeJoy/DesireeJoy_Portf_Code)
 
 React Based Portfolio Site for Desiree Joy Bradish
 
 <IMG SRC='DJBReact-Site-Preview.png' width='800px'>
 
-[Finnegan Fox Books](https://desireejoy.github.io/SaveAFox-temp/) [Code](https://github.com/DesireeJoy/SaveAFox)
+[Finnegan Fox Books](https://desireejoy.github.io/SaveAFox-temp/) | [Code](https://github.com/DesireeJoy/SaveAFox)
 
 React based responsive design for the 'Finnegan Fox' book series by SaveAFox inc.
 
 <IMG SRC='Fox-Site-Preview.png' width='300px'>
 
-[News Explorer](https://djbnews.students.nomoreparties.sbs/) [Code](https://github.com/DesireeJoy/news-explorer-full)
+[News Explorer](https://djbnews.students.nomoreparties.sbs/) | [Code](https://github.com/DesireeJoy/news-explorer-full) | 
 	[YouTube Code Tour](https://www.youtube.com/watch?v=FTztV9q4i1c)
 
 Full (M.E.R.N.) stack responsive SPA that utilizes a public news search API and a private API, created by me, for logging in/out and saving articles. It utilizes a NGINX reverse proxy setup to keep both hosted at the same location and Certbot for security.
