@@ -34,7 +34,7 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 	
 <h1>Featured Projects</h1>
 
-[React Portfolio](https://desireejoy.github.io/DesireeJoy_Portfolio/) | [Code](https://github.com/DesireeJoy/DesireeJoy_Portf_Code)
+[React Portfolio](https://desireejoy.github.io/DesireeJoy_Portfolio/) | [Code](https://github.com/DesireeJoy/DesireeJoy_Portfolio)
 
 React Based Portfolio Site for Desiree Joy Bradish
 
