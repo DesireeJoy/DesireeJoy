@@ -40,7 +40,7 @@ React Based Portfolio Site for Desiree Joy Bradish
 
 <IMG SRC='DJBReact-Site-Preview.png' width='800px'>
 
-[Finnegan Fox Books](https://desireejoy.github.io/SaveAFox-temp/) | [Code](https://github.com/DesireeJoy/SaveAFox)
+[Finnegan Fox Books](https://desireejoy.github.io/SaveAFox-temp/) | [Code](https://github.com/DesireeJoy/SaveAFox-temp)
 
 React based responsive design for the 'Finnegan Fox' book series by SaveAFox inc.
 
