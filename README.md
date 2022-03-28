@@ -20,7 +20,7 @@ Hi there 👋 I'm Desireé Joy. (She/Her)
 🔭 I’m currently learning
 	<ul>
 	<li>React Native</li>
-	<li>NextJS</li>
+	<li>Redux</li>
 	</ul>
 &nbsp;&nbsp;
 
